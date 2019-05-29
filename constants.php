@@ -1,0 +1,11 @@
+<?php
+$PROJECT=Array(
+    "name"=>"craftyhands"
+);
+$DB=Array(
+    "host"=>"localhost",
+    "username"=>"root",
+    "password"=>"root",
+    "database"=>$PROJECT["name"]
+);
+?>
